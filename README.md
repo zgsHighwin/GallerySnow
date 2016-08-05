@@ -1,0 +1,2 @@
+# GallerySnow
+雪花形式的gallery在他人的基础上进行的修改操作
